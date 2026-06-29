@@ -104,9 +104,9 @@ Research on Deep Learning for Drug Discovery.
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravkaur161-debug&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ravneetkaur-14&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravkaur161-debug&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ravneetkaur-14&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -114,7 +114,7 @@ Research on Deep Learning for Drug Discovery.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=ravkaur161-debug&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=ravneetkaur-14&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -124,7 +124,7 @@ Research on Deep Learning for Drug Discovery.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ravkaur161-debug&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ravneetkaur-14&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -132,7 +132,7 @@ Research on Deep Learning for Drug Discovery.
 
 ## 📊 Contribution Graph
 
-[![Ravneet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravkaur161-debug&theme=tokyo-night)](https://github.com/ravkaur161-debug)
+[![Ravneet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ravneetkaur-14&theme=tokyo-night)](https://github.com/ravneetkaur-14)
 
 ---
 
@@ -159,7 +159,7 @@ Research on Deep Learning for Drug Discovery.
 
 <p align="center">
 
-<a href="https://github.com/ravkaur161-debug">
+<a href="https://github.com/ravneetkaur-14">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
@@ -179,6 +179,6 @@ Research on Deep Learning for Drug Discovery.
 
 ### 💙 "Learning Cloud Computing one deployment at a time."
 
-<img src="https://komarev.com/ghpvc/?username=ravkaur161-debug&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=ravneetkaur-14&label=Profile%20Views&color=0e75b6&style=flat" />
 
 </div>
